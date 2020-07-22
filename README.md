@@ -40,8 +40,13 @@ I like to automate systems where there is a need.
 - [Enhance and Colorize Old Pictures](https://dev.to/raphink/enhance-and-colorize-old-pictures-5c9g) (3 weeks ago)
 - [Add #puppet tag](https://dev.to/raphink/add-puppet-tag-142l) (1 month ago)
 - [Configuration surgery with Go structure tags](https://dev.to/raphink/configuration-surgery-with-go-structure-tags-12a4) (1 month ago)
+- [How to encourage interaction on dev.to posts?](https://dev.to/raphink/visibility-comments-b65) (1 month ago)
+- [All the ways to manage files with Puppet](https://dev.to/camptocamp-ops/how-to-manage-files-with-puppet-55e4) (1 month ago)
+- [Tracing X to my 4th great-grandmother](https://dev.to/raphink/tracing-x-to-my-4th-great-grandmother-2af9) (1 month ago)
+- [Getting Puppet Report Metrics from PuppetDB](https://dev.to/camptocamp-ops/getting-puppet-report-metrics-from-puppetdb-6bp) (1 month ago)
+- [Bitten by HA: PuppetDB &amp; PostgreSQL](https://dev.to/camptocamp-ops/bitten-by-ha-puppetdb-postgresql-1eld) (2 months ago)
 
-#### 👯 Check out some of my recent followers
+#### 👥 Check out some of my recent followers
 
 - [muesli](https://github.com/muesli)
 - [erdaltsksn](https://github.com/erdaltsksn)
