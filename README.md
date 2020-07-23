@@ -48,11 +48,11 @@ I like to automate systems where there is a need.
 
 #### 👥 Check out some of my recent followers
 
+- [Xtigyro](https://github.com/Xtigyro)
 - [yoan-adfinis](https://github.com/yoan-adfinis)
 - [muesli](https://github.com/muesli)
 - [juame](https://github.com/juame)
 - [rtzll](https://github.com/rtzll)
-- [bibleable](https://github.com/bibleable)
 
 
 ### Top languages
