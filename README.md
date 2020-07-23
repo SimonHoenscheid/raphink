@@ -48,11 +48,11 @@ I like to automate systems where there is a need.
 
 #### 👥 Check out some of my recent followers
 
-- [Xtigyro](https://github.com/Xtigyro)
-- [yoan-adfinis](https://github.com/yoan-adfinis)
-- [muesli](https://github.com/muesli)
-- [juame](https://github.com/juame)
-- [rtzll](https://github.com/rtzll)
+- [<img src="https://avatars3.githubusercontent.com/u/11665162?v=4" height="20"/> Xtigyro](https://github.com/Xtigyro)
+- [<img src="https://avatars0.githubusercontent.com/u/67725449?u=77d3df350e98ed871d077e4eab5b89a3039b542f&amp;v=4" height="20"/> yoan-adfinis](https://github.com/yoan-adfinis)
+- [<img src="https://avatars0.githubusercontent.com/u/146378?u=a8f07db1dc640cc093fbe7ec95a1cb72fb648b19&amp;v=4" height="20"/> muesli](https://github.com/muesli)
+- [<img src="https://avatars0.githubusercontent.com/u/7010789?u=e4744de1d0a4b13cbd2beee4f76eb67ecfd46110&amp;v=4" height="20"/> juame](https://github.com/juame)
+- [<img src="https://avatars0.githubusercontent.com/u/3359485?u=e4f01354c67273695963b04a6c995445b5cb70a3&amp;v=4" height="20"/> rtzll](https://github.com/rtzll)
 
 
 ### Top languages
