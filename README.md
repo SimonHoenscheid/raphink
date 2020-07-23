@@ -58,7 +58,6 @@ I like to automate systems where there is a need.
 #### My GitHub Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=raphink&show_icons=true)
-17
 
 
 #### 📫 How to reach me
