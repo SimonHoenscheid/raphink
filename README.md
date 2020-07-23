@@ -35,6 +35,7 @@ I like to automate systems where there is a need.
 
 #### 📜 My recent blog posts
 
+- [Decomissioning with Puppet: report &amp; purge unmanaged resources](https://dev.to/camptocamp-ops/decomissioning-with-puppet-report-purge-unmanaged-resources-1jgk) (today)
 - [Templating Puppet Control Repositories](https://dev.to/camptocamp-ops/templating-puppet-control-repositories-3pk7) (2 days ago)
 - [💡 GitHub Sponsors and dev.to posts](https://dev.to/raphink/github-sponsors-and-dev-to-posts-51b1) (3 weeks ago)
 - [Enhance and Colorize Old Pictures](https://dev.to/raphink/enhance-and-colorize-old-pictures-5c9g) (3 weeks ago)
@@ -44,7 +45,6 @@ I like to automate systems where there is a need.
 - [All the ways to manage files with Puppet](https://dev.to/camptocamp-ops/how-to-manage-files-with-puppet-55e4) (1 month ago)
 - [Tracing X to my 4th great-grandmother](https://dev.to/raphink/tracing-x-to-my-4th-great-grandmother-2af9) (1 month ago)
 - [Getting Puppet Report Metrics from PuppetDB](https://dev.to/camptocamp-ops/getting-puppet-report-metrics-from-puppetdb-6bp) (1 month ago)
-- [Bitten by HA: PuppetDB &amp; PostgreSQL](https://dev.to/camptocamp-ops/bitten-by-ha-puppetdb-postgresql-1eld) (2 months ago)
 
 #### 👥 Check out some of my recent followers
 
