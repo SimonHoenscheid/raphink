@@ -22,6 +22,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [camptocamp/terraform-provider-freeipa](https://github.com/camptocamp/terraform-provider-freeipa) ([v0.6.0](https://github.com/camptocamp/terraform-provider-freeipa/releases/tag/v0.6.0), today) - FreeIPA Terraform Provider
 - [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) ([v1.3.0](https://github.com/camptocamp/terraform-provider-puppetca/releases/tag/v1.3.0), today) - Terraform Puppet CA Provider
 - [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) ([v1.2.0](https://github.com/camptocamp/terraform-provider-puppetdb/releases/tag/v1.2.0), today) - Terraform Provider to manage resources in PuppetDB
 - [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) ([v1.3.0](https://github.com/camptocamp/terraform-provider-pass/releases/tag/v1.3.0), today) - Pass Terraform provider
@@ -31,7 +32,6 @@ I like to automate systems where there is a need.
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.21.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.21.0), 1 week ago) - A pure Ruby code highlighter that is compatible with Pygments
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([1.2.0](https://github.com/voxpupuli/modulesync/releases/tag/1.2.0), 3 weeks ago) - Synchronize common files across your Git repositories.
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.1.2](https://github.com/voxpupuli/puppetboard/releases/tag/v2.1.2), 3 weeks ago) - Web frontend for PuppetDB
-- [raphink/moderntimeline](https://github.com/raphink/moderntimeline) ([v0.11](https://github.com/raphink/moderntimeline/releases/tag/v0.11), 1 month ago) - A timeline package for moderncv
 
 #### 📜 My recent blog posts
 
