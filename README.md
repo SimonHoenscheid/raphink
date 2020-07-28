@@ -7,18 +7,21 @@ I'm Raphaël, an Infrastructure Developer working at [Camptocamp 🏔](https://g
 I like to automate systems where there is a need.
 
 
-#### 🌱 Check out what I'm currently working on
+#### 👷 Check out what I'm currently working on
+
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (4 days ago)
+- [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) - Terraform Puppet CA Provider (4 days ago)
+- [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) - Pass Terraform provider (4 days ago)
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (4 days ago)
+- [camptocamp/terraform-provider-freeipa](https://github.com/camptocamp/terraform-provider-freeipa) - FreeIPA Terraform Provider (4 days ago)
+
+#### 🌱 My latest personal projects
 
 - [raphink/countdown_video](https://github.com/raphink/countdown_video) - 🎥 Simple ffmpeg script to generate a countdown video from an image and a sound file
 - [raphink/genearoman](https://github.com/raphink/genearoman) - 📖 Long Tom, un roman généalogique
 - [raphink/pinsonnet](https://github.com/raphink/pinsonnet) - 🐦 A bird recognition AI learning project using fastai
 - [raphink/find-my-ancestor](https://github.com/raphink/find-my-ancestor) - 📷 A project to recognize faces in old photographies using AWS Rekognition
 - [raphink/puppet-securityoptions](https://github.com/raphink/puppet-securityoptions) - 
-- [raphink/everything-as-code-talk](https://github.com/raphink/everything-as-code-talk) - 🎤 Everything as Code
-- [raphink/dna-tools](https://github.com/raphink/dna-tools) - 🧬 Tools to manipulate FTDNA data
-- [raphink/puppet-docker-talk](https://github.com/raphink/puppet-docker-talk) - 🎤 Dockerized Puppet Talk
-- [raphink/terraboard-talk](https://github.com/raphink/terraboard-talk) - 🎤 Terraboard talk
-- [raphink/rancher-catalog-test](https://github.com/raphink/rancher-catalog-test) - Test Rancher Catalog
 
 #### 🔭 Latest releases I've contributed to
 
@@ -27,11 +30,6 @@ I like to automate systems where there is a need.
 - [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) ([v1.2.0](https://github.com/camptocamp/terraform-provider-puppetdb/releases/tag/v1.2.0), 4 days ago) - Terraform Provider to manage resources in PuppetDB
 - [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) ([v1.3.0](https://github.com/camptocamp/terraform-provider-pass/releases/tag/v1.3.0), 4 days ago) - Pass Terraform provider
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.12.29](https://github.com/hashicorp/terraform/releases/tag/v0.12.29), 6 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([0.21.0](https://github.com/camptocamp/terraboard/releases/tag/0.21.0), 6 days ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.9.3-rc.0](https://github.com/gopasspw/gopass/releases/tag/v1.9.3-rc.0), 1 week ago) - The slightly more awesome standard unix password manager for teams
-- [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.21.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.21.0), 2 weeks ago) - A pure Ruby code highlighter that is compatible with Pygments
-- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([1.2.0](https://github.com/voxpupuli/modulesync/releases/tag/1.2.0), 3 weeks ago) - Synchronize common files across your Git repositories.
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.1.2](https://github.com/voxpupuli/puppetboard/releases/tag/v2.1.2), 3 weeks ago) - Web frontend for PuppetDB
 
 #### 📜 My recent blog posts
 
@@ -40,11 +38,6 @@ I like to automate systems where there is a need.
 - [Templating Puppet Control Repositories](https://dev.to/camptocamp-ops/templating-puppet-control-repositories-3pk7) (1 week ago)
 - [💡 GitHub Sponsors and dev.to posts](https://dev.to/raphink/github-sponsors-and-dev-to-posts-51b1) (3 weeks ago)
 - [Enhance and Colorize Old Pictures](https://dev.to/raphink/enhance-and-colorize-old-pictures-5c9g) (4 weeks ago)
-- [Add #puppet tag](https://dev.to/raphink/add-puppet-tag-142l) (1 month ago)
-- [Configuration surgery with Go structure tags](https://dev.to/raphink/configuration-surgery-with-go-structure-tags-12a4) (1 month ago)
-- [How to encourage interaction on dev.to posts?](https://dev.to/raphink/visibility-comments-b65) (1 month ago)
-- [All the ways to manage files with Puppet](https://dev.to/camptocamp-ops/how-to-manage-files-with-puppet-55e4) (1 month ago)
-- [Tracing X to my 4th great-grandmother](https://dev.to/raphink/tracing-x-to-my-4th-great-grandmother-2af9) (1 month ago)
 
 #### 👥 Check out some of my recent followers
 
@@ -55,9 +48,21 @@ I like to automate systems where there is a need.
 - [<img src="https://avatars0.githubusercontent.com/u/146378?u=a8f07db1dc640cc093fbe7ec95a1cb72fb648b19&amp;v=4" height="20"/> muesli](https://github.com/muesli)
 
 
-### Top languages
+#### 💚 My awesome sponsors (thank you!)
+
+- [<img src="https://avatars1.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (2 months ago)
+
+
+#### 👨‍💻 Top languages
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raphink&hide_title=true)
+
+
+#### 💬 Feedback
+
+If you use one of my projects, I'd love to hear from you!
+Don't be shy and let me know what you liked and what needs being improved.
+Got an issue? Open a ticket, I don't bite and will try my best to help!
 
 
 #### 📫 How to reach me
@@ -69,4 +74,4 @@ I'm online as **raphink** on most platforms:
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" width="20" alt="LinkedIn" /> https://www.linkedin.com/in/raphink
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/slack.svg" width="20" alt="Slack" /> [Puppet Community](https://slack.puppet.com/), [Hangops](https://signup.hangops.com/), [Kubernetes](https://slack.k8s.io/)
 
-*Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!*
+*Do you want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!*
