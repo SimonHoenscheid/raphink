@@ -35,6 +35,7 @@ I like to automate systems where there is a need.
 
 #### 📜 My recent blog posts
 
+- [Simple secret sharing with gopass and summon](https://dev.to/camptocamp-ops/simple-secret-sharing-with-gopass-and-summon-40jk) (today)
 - [Decomissioning with Puppet: report &amp; purge unmanaged resources](https://dev.to/camptocamp-ops/decomissioning-with-puppet-report-purge-unmanaged-resources-1jgk) (5 days ago)
 - [Templating Puppet Control Repositories](https://dev.to/camptocamp-ops/templating-puppet-control-repositories-3pk7) (1 week ago)
 - [💡 GitHub Sponsors and dev.to posts](https://dev.to/raphink/github-sponsors-and-dev-to-posts-51b1) (3 weeks ago)
@@ -44,7 +45,6 @@ I like to automate systems where there is a need.
 - [How to encourage interaction on dev.to posts?](https://dev.to/raphink/visibility-comments-b65) (1 month ago)
 - [All the ways to manage files with Puppet](https://dev.to/camptocamp-ops/how-to-manage-files-with-puppet-55e4) (1 month ago)
 - [Tracing X to my 4th great-grandmother](https://dev.to/raphink/tracing-x-to-my-4th-great-grandmother-2af9) (1 month ago)
-- [Getting Puppet Report Metrics from PuppetDB](https://dev.to/camptocamp-ops/getting-puppet-report-metrics-from-puppetdb-6bp) (1 month ago)
 
 #### 👥 Check out some of my recent followers
 
