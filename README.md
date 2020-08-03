@@ -20,7 +20,7 @@ I like to automate systems where there is a need.
 - [raphink/countdown_video](https://github.com/raphink/countdown_video) - 🎥 Simple ffmpeg script to generate a countdown video from an image and a sound file
 - [raphink/genearoman](https://github.com/raphink/genearoman) - 📖 Long Tom, un roman généalogique
 - [raphink/pinsonnet](https://github.com/raphink/pinsonnet) - 🐦 A bird recognition AI learning project using fastai
-- [raphink/find-my-ancestor](https://github.com/raphink/find-my-ancestor) - 📷 A project to recognize faces in old photographies using AWS Rekognition
+- [raphink/find-my-ancestor](https://github.com/raphink/find-my-ancestor) - 📷🎩 A project to recognize faces in old photographies using AWS Rekognition
 - [raphink/puppet-securityoptions](https://github.com/raphink/puppet-securityoptions) - 
 
 #### 🔭 Latest releases I've contributed to
@@ -63,6 +63,8 @@ I like to automate systems where there is a need.
 If you use one of my projects, I'd love to hear from you!
 Don't be shy and let me know what you liked and what needs being improved.
 Got an issue? Open a ticket, I don't bite and will try my best to help!
+
+If you appreciate my work, you can also [sponsor me 💚](https://github.com/sponsors/raphink) on GitHub!
 
 
 #### 📫 How to reach me
