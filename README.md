@@ -10,10 +10,10 @@ I like to automate systems where there is a need.
 #### 👷 Check out what I'm currently working on
 
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (today)
-- [ripienaar/puppet-catalog-diff](https://github.com/ripienaar/puppet-catalog-diff) - Tool to diff Puppet catalogs (2 days ago)
+- [camptocamp/puppet-windows_securityoptions](https://github.com/camptocamp/puppet-windows_securityoptions) - Puppet module for Windows Local Security Policy types (today)
 - [raphink/genearoman](https://github.com/raphink/genearoman) - 📖 Long Tom, un roman généalogique (2 days ago)
+- [ripienaar/puppet-catalog-diff](https://github.com/ripienaar/puppet-catalog-diff) - Tool to diff Puppet catalogs (2 days ago)
 - [camptocamp/puppet-catalog-diff-viewer](https://github.com/camptocamp/puppet-catalog-diff-viewer) - A viewer for the puppet-catalog-diff tool (3 days ago)
-- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (5 days ago)
 
 #### 🌱 My latest personal projects
 
