@@ -12,8 +12,8 @@ I like to automate systems where there is a need.
 - [hercules-team/augeasproviders_shellvar](https://github.com/hercules-team/augeasproviders_shellvar) - Augeas-based shellvar type and provider for Puppet (today)
 - [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (today)
 - [hercules-team/augeasproviders_ssh](https://github.com/hercules-team/augeasproviders_ssh) - Augeas-based ssh types and providers for Puppet  (today)
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (2 days ago)
 - [camptocamp/puppet-windows_securityoptions](https://github.com/camptocamp/puppet-windows_securityoptions) - Puppet module for Windows Local Security Policy types (2 days ago)
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (2 days ago)
 
 #### 🌱 My latest personal projects
 
