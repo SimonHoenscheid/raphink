@@ -10,10 +10,10 @@ I like to automate systems where there is a need.
 #### 👷 Check out what I'm currently working on
 
 - [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (today)
+- [hercules-team/augeasproviders_ssh](https://github.com/hercules-team/augeasproviders_ssh) - Augeas-based ssh types and providers for Puppet  (today)
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (2 days ago)
 - [camptocamp/puppet-windows_securityoptions](https://github.com/camptocamp/puppet-windows_securityoptions) - Puppet module for Windows Local Security Policy types (2 days ago)
 - [ripienaar/puppet-catalog-diff](https://github.com/ripienaar/puppet-catalog-diff) - Tool to diff Puppet catalogs (4 days ago)
-- [raphink/genearoman](https://github.com/raphink/genearoman) - 📖 Long Tom, un roman généalogique (4 days ago)
 
 #### 🌱 My latest personal projects
 
