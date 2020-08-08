@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.9.3-rc.1](https://github.com/gopasspw/gopass/releases/tag/v1.9.3-rc.1), today) - The slightly more awesome standard unix password manager for teams
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 1 week ago) - Web frontend for PuppetDB
 - [camptocamp/terraform-provider-freeipa](https://github.com/camptocamp/terraform-provider-freeipa) ([v0.6.0](https://github.com/camptocamp/terraform-provider-freeipa/releases/tag/v0.6.0), 2 weeks ago) - FreeIPA Terraform Provider
 - [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) ([v1.3.0](https://github.com/camptocamp/terraform-provider-puppetca/releases/tag/v1.3.0), 2 weeks ago) - Terraform Puppet CA Provider
 - [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) ([v1.2.0](https://github.com/camptocamp/terraform-provider-puppetdb/releases/tag/v1.2.0), 2 weeks ago) - Terraform Provider to manage resources in PuppetDB
-- [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) ([v1.3.0](https://github.com/camptocamp/terraform-provider-pass/releases/tag/v1.3.0), 2 weeks ago) - Pass Terraform provider
 
 #### 📜 My recent blog posts
 
