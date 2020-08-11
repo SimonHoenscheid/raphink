@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [hercules-team/augeasproviders_shellvar](https://github.com/hercules-team/augeasproviders_shellvar) - Augeas-based shellvar type and provider for Puppet (3 days ago)
-- [hercules-team/augeasproviders_ssh](https://github.com/hercules-team/augeasproviders_ssh) - Augeas-based ssh types and providers for Puppet  (3 days ago)
-- [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (3 days ago)
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (5 days ago)
-- [camptocamp/puppet-windows_securityoptions](https://github.com/camptocamp/puppet-windows_securityoptions) - Puppet module for Windows Local Security Policy types (5 days ago)
+- [hercules-team/augeasproviders_shellvar](https://github.com/hercules-team/augeasproviders_shellvar) - Augeas-based shellvar type and provider for Puppet (4 days ago)
+- [hercules-team/augeasproviders_ssh](https://github.com/hercules-team/augeasproviders_ssh) - Augeas-based ssh types and providers for Puppet  (4 days ago)
+- [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (4 days ago)
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (6 days ago)
+- [camptocamp/puppet-windows_securityoptions](https://github.com/camptocamp/puppet-windows_securityoptions) - Puppet module for Windows Local Security Policy types (6 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,17 +25,17 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.13.0](https://github.com/hashicorp/terraform/releases/tag/v0.13.0), today) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.0-rc.0](https://github.com/gopasspw/gopass/releases/tag/v1.10.0-rc.0), today) - The slightly more awesome standard unix password manager for teams
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.13.0](https://github.com/hashicorp/terraform/releases/tag/v0.13.0), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.0-rc.0](https://github.com/gopasspw/gopass/releases/tag/v1.10.0-rc.0), 1 day ago) - The slightly more awesome standard unix password manager for teams
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 1 week ago) - Web frontend for PuppetDB
 - [camptocamp/terraform-provider-freeipa](https://github.com/camptocamp/terraform-provider-freeipa) ([v0.6.0](https://github.com/camptocamp/terraform-provider-freeipa/releases/tag/v0.6.0), 2 weeks ago) - FreeIPA Terraform Provider
 - [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) ([v1.3.0](https://github.com/camptocamp/terraform-provider-puppetca/releases/tag/v1.3.0), 2 weeks ago) - Terraform Puppet CA Provider
 
 #### 📜 My recent blog posts
 
-- [Simple secret sharing with gopass and summon](https://dev.to/camptocamp-ops/simple-secret-sharing-with-gopass-and-summon-40jk) (1 week ago)
+- [Simple secret sharing with gopass and summon](https://dev.to/camptocamp-ops/simple-secret-sharing-with-gopass-and-summon-40jk) (2 weeks ago)
 - [Decomissioning with Puppet: report &amp; purge unmanaged resources](https://dev.to/camptocamp-ops/decomissioning-with-puppet-report-purge-unmanaged-resources-1jgk) (2 weeks ago)
-- [Templating Puppet Control Repositories](https://dev.to/camptocamp-ops/templating-puppet-control-repositories-3pk7) (2 weeks ago)
+- [Templating Puppet Control Repositories](https://dev.to/camptocamp-ops/templating-puppet-control-repositories-3pk7) (3 weeks ago)
 - [💡 GitHub Sponsors and dev.to posts](https://dev.to/raphink/github-sponsors-and-dev-to-posts-51b1) (1 month ago)
 - [Enhance and Colorize Old Pictures](https://dev.to/raphink/enhance-and-colorize-old-pictures-5c9g) (1 month ago)
 
