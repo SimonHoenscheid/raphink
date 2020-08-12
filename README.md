@@ -10,10 +10,10 @@ I like to automate systems where there is a need.
 #### 👷 Check out what I'm currently working on
 
 - [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (today)
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (today)
 - [hercules-team/augeasproviders_shellvar](https://github.com/hercules-team/augeasproviders_shellvar) - Augeas-based shellvar type and provider for Puppet (5 days ago)
 - [hercules-team/augeasproviders_ssh](https://github.com/hercules-team/augeasproviders_ssh) - Augeas-based ssh types and providers for Puppet  (5 days ago)
 - [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (5 days ago)
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (1 week ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([0.22.0](https://github.com/camptocamp/terraboard/releases/tag/0.22.0), today) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.22.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.22.0), 1 day ago) - A pure Ruby code highlighter that is compatible with Pygments
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.13.0](https://github.com/hashicorp/terraform/releases/tag/v0.13.0), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.0-rc.0](https://github.com/gopasspw/gopass/releases/tag/v1.10.0-rc.0), 2 days ago) - The slightly more awesome standard unix password manager for teams
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 1 week ago) - Web frontend for PuppetDB
-- [camptocamp/terraform-provider-freeipa](https://github.com/camptocamp/terraform-provider-freeipa) ([v0.6.0](https://github.com/camptocamp/terraform-provider-freeipa/releases/tag/v0.6.0), 2 weeks ago) - FreeIPA Terraform Provider
 
 #### 📜 My recent blog posts
 
