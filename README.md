@@ -9,9 +9,9 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (today)
 - [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (1 day ago)
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (1 day ago)
-- [hercules-team/augeasproviders_shellvar](https://github.com/hercules-team/augeasproviders_shellvar) - Augeas-based shellvar type and provider for Puppet (6 days ago)
 - [hercules-team/augeasproviders_ssh](https://github.com/hercules-team/augeasproviders_ssh) - Augeas-based ssh types and providers for Puppet  (6 days ago)
 - [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (6 days ago)
 
