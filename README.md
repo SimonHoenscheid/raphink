@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (today)
-- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (1 day ago)
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (1 day ago)
-- [hercules-team/augeasproviders_ssh](https://github.com/hercules-team/augeasproviders_ssh) - Augeas-based ssh types and providers for Puppet  (6 days ago)
-- [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (6 days ago)
+- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (1 day ago)
+- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (2 days ago)
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (2 days ago)
+- [hercules-team/augeasproviders_ssh](https://github.com/hercules-team/augeasproviders_ssh) - Augeas-based ssh types and providers for Puppet  (1 week ago)
+- [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (1 week ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([0.22.0](https://github.com/camptocamp/terraboard/releases/tag/0.22.0), 1 day ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
-- [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.22.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.22.0), 2 days ago) - A pure Ruby code highlighter that is compatible with Pygments
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.13.0](https://github.com/hashicorp/terraform/releases/tag/v0.13.0), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.0-rc.0](https://github.com/gopasspw/gopass/releases/tag/v1.10.0-rc.0), 3 days ago) - The slightly more awesome standard unix password manager for teams
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 1 week ago) - Web frontend for PuppetDB
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([0.22.0](https://github.com/camptocamp/terraboard/releases/tag/0.22.0), 2 days ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
+- [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.22.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.22.0), 3 days ago) - A pure Ruby code highlighter that is compatible with Pygments
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.13.0](https://github.com/hashicorp/terraform/releases/tag/v0.13.0), 4 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.0-rc.0](https://github.com/gopasspw/gopass/releases/tag/v1.10.0-rc.0), 4 days ago) - The slightly more awesome standard unix password manager for teams
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 2 weeks ago) - Web frontend for PuppetDB
 
 #### 📜 My recent blog posts
 
