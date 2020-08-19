@@ -10,10 +10,10 @@ I like to automate systems where there is a need.
 #### 👷 Check out what I'm currently working on
 
 - [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (today)
+- [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) - Pass Terraform provider (today)
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (2 days ago)
 - [camptocamp/terraform-rke-cluster-exoscale](https://github.com/camptocamp/terraform-rke-cluster-exoscale) -  (5 days ago)
 - [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (1 week ago)
-- [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (1 week ago)
 
 #### 🌱 My latest personal projects
 
