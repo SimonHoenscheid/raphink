@@ -9,10 +9,10 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/puppet-systemd](https://github.com/camptocamp/puppet-systemd) - Puppet module to manage systemd (today)
 - [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (today)
 - [camptocamp/terraform-rke-cluster-exoscale](https://github.com/camptocamp/terraform-rke-cluster-exoscale) -  (1 day ago)
 - [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) - Pass Terraform provider (2 days ago)
-- [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) - Terraform Provider to manage resources in PuppetDB (2 days ago)
 - [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) - Terraform Puppet CA Provider (2 days ago)
 
 #### 🌱 My latest personal projects
