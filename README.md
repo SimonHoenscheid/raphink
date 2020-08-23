@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [xorpaul/g10k](https://github.com/xorpaul/g10k) - my r10k fork in Go (today)
-- [camptocamp/puppet-systemd](https://github.com/camptocamp/puppet-systemd) - Puppet module to manage systemd (1 day ago)
-- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (1 day ago)
-- [camptocamp/terraform-rke-cluster-exoscale](https://github.com/camptocamp/terraform-rke-cluster-exoscale) -  (2 days ago)
-- [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) - Pass Terraform provider (3 days ago)
+- [xorpaul/g10k](https://github.com/xorpaul/g10k) - my r10k fork in Go (1 day ago)
+- [camptocamp/puppet-systemd](https://github.com/camptocamp/puppet-systemd) - Puppet module to manage systemd (2 days ago)
+- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (2 days ago)
+- [camptocamp/terraform-rke-cluster-exoscale](https://github.com/camptocamp/terraform-rke-cluster-exoscale) -  (3 days ago)
+- [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) - Pass Terraform provider (4 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,9 +25,9 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.0-rc.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.0-rc.1), today) - The slightly more awesome standard unix password manager for teams
-- [xorpaul/g10k](https://github.com/xorpaul/g10k) ([v0.8.12](https://github.com/xorpaul/g10k/releases/tag/v0.8.12), 1 day ago) - my r10k fork in Go
-- [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) ([v1.4.0](https://github.com/camptocamp/terraform-provider-pass/releases/tag/v1.4.0), 3 days ago) - Pass Terraform provider
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.0-rc.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.0-rc.1), 1 day ago) - The slightly more awesome standard unix password manager for teams
+- [xorpaul/g10k](https://github.com/xorpaul/g10k) ([v0.8.12](https://github.com/xorpaul/g10k/releases/tag/v0.8.12), 2 days ago) - my r10k fork in Go
+- [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) ([v1.4.0](https://github.com/camptocamp/terraform-provider-pass/releases/tag/v1.4.0), 4 days ago) - Pass Terraform provider
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([0.22.0](https://github.com/camptocamp/terraboard/releases/tag/0.22.0), 1 week ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.22.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.22.0), 1 week ago) - A pure Ruby code highlighter that is compatible with Pygments
 
