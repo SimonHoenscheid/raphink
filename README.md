@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.0-rc.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.0-rc.1), 1 day ago) - The slightly more awesome standard unix password manager for teams
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.0](https://github.com/gopasspw/gopass/releases/tag/v1.10.0), today) - The slightly more awesome standard unix password manager for teams
 - [xorpaul/g10k](https://github.com/xorpaul/g10k) ([v0.8.12](https://github.com/xorpaul/g10k/releases/tag/v0.8.12), 2 days ago) - my r10k fork in Go
 - [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) ([v1.4.0](https://github.com/camptocamp/terraform-provider-pass/releases/tag/v1.4.0), 4 days ago) - Pass Terraform provider
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([0.22.0](https://github.com/camptocamp/terraboard/releases/tag/0.22.0), 1 week ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
