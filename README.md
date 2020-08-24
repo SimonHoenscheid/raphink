@@ -10,10 +10,10 @@ I like to automate systems where there is a need.
 #### 👷 Check out what I'm currently working on
 
 - [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (today)
+- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) -  (today)
 - [xorpaul/g10k](https://github.com/xorpaul/g10k) - my r10k fork in Go (2 days ago)
 - [camptocamp/puppet-systemd](https://github.com/camptocamp/puppet-systemd) - Puppet module to manage systemd (3 days ago)
 - [camptocamp/terraform-rke-cluster-exoscale](https://github.com/camptocamp/terraform-rke-cluster-exoscale) -  (4 days ago)
-- [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) - Pass Terraform provider (5 days ago)
 
 #### 🌱 My latest personal projects
 
