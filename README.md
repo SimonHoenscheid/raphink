@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (today)
-- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) -  (today)
-- [xorpaul/g10k](https://github.com/xorpaul/g10k) - my r10k fork in Go (2 days ago)
-- [camptocamp/puppet-systemd](https://github.com/camptocamp/puppet-systemd) - Puppet module to manage systemd (3 days ago)
-- [camptocamp/terraform-rke-cluster-exoscale](https://github.com/camptocamp/terraform-rke-cluster-exoscale) -  (4 days ago)
+- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (1 day ago)
+- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) -  (1 day ago)
+- [xorpaul/g10k](https://github.com/xorpaul/g10k) - my r10k fork in Go (3 days ago)
+- [camptocamp/puppet-systemd](https://github.com/camptocamp/puppet-systemd) - Puppet module to manage systemd (4 days ago)
+- [camptocamp/terraform-rke-cluster-exoscale](https://github.com/camptocamp/terraform-rke-cluster-exoscale) -  (5 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,15 +25,15 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.0](https://github.com/gopasspw/gopass/releases/tag/v1.10.0), 1 day ago) - The slightly more awesome standard unix password manager for teams
-- [xorpaul/g10k](https://github.com/xorpaul/g10k) ([v0.8.12](https://github.com/xorpaul/g10k/releases/tag/v0.8.12), 3 days ago) - my r10k fork in Go
-- [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) ([v1.4.0](https://github.com/camptocamp/terraform-provider-pass/releases/tag/v1.4.0), 5 days ago) - Pass Terraform provider
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.0](https://github.com/gopasspw/gopass/releases/tag/v1.10.0), 2 days ago) - The slightly more awesome standard unix password manager for teams
+- [xorpaul/g10k](https://github.com/xorpaul/g10k) ([v0.8.12](https://github.com/xorpaul/g10k/releases/tag/v0.8.12), 4 days ago) - my r10k fork in Go
+- [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) ([v1.4.0](https://github.com/camptocamp/terraform-provider-pass/releases/tag/v1.4.0), 6 days ago) - Pass Terraform provider
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([0.22.0](https://github.com/camptocamp/terraboard/releases/tag/0.22.0), 1 week ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
-- [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.22.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.22.0), 1 week ago) - A pure Ruby code highlighter that is compatible with Pygments
+- [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.22.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.22.0), 2 weeks ago) - A pure Ruby code highlighter that is compatible with Pygments
 
 #### 📜 My recent blog posts
 
-- [Simple secret sharing with gopass and summon](https://dev.to/camptocamp-ops/simple-secret-sharing-with-gopass-and-summon-40jk) (3 weeks ago)
+- [Simple secret sharing with gopass and summon](https://dev.to/camptocamp-ops/simple-secret-sharing-with-gopass-and-summon-40jk) (4 weeks ago)
 - [Decomissioning with Puppet: report &amp; purge unmanaged resources](https://dev.to/camptocamp-ops/decomissioning-with-puppet-report-purge-unmanaged-resources-1jgk) (1 month ago)
 - [Templating Puppet Control Repositories](https://dev.to/camptocamp-ops/templating-puppet-control-repositories-3pk7) (1 month ago)
 - [💡 GitHub Sponsors and dev.to posts](https://dev.to/raphink/github-sponsors-and-dev-to-posts-51b1) (1 month ago)
@@ -50,7 +50,7 @@ I like to automate systems where there is a need.
 
 #### 💚 My awesome sponsors (thank you!)
 
-- [<img src="https://avatars1.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (2 months ago)
+- [<img src="https://avatars1.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (3 months ago)
 
 
 #### 👨‍💻 Top languages
