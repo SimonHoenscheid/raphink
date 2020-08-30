@@ -9,9 +9,9 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/find-my-ancestor](https://github.com/raphink/find-my-ancestor) - 📷🎩 A project to recognize faces in old photographies using AWS Rekognition (2 days ago)
-- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (5 days ago)
-- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) -  (5 days ago)
+- [raphink/find-my-ancestor](https://github.com/raphink/find-my-ancestor) - 📷🎩 A project to recognize faces in old photographies using AWS Rekognition (3 days ago)
+- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (6 days ago)
+- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) -  (6 days ago)
 - [xorpaul/g10k](https://github.com/xorpaul/g10k) - my r10k fork in Go (1 week ago)
 - [camptocamp/puppet-systemd](https://github.com/camptocamp/puppet-systemd) - Puppet module to manage systemd (1 week ago)
 
@@ -25,9 +25,9 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.13.1](https://github.com/hashicorp/terraform/releases/tag/v0.13.1), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.1), 4 days ago) - The slightly more awesome standard unix password manager for teams
-- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.2.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.2.0), 4 days ago) - 
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.13.1](https://github.com/hashicorp/terraform/releases/tag/v0.13.1), 4 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.1), 5 days ago) - The slightly more awesome standard unix password manager for teams
+- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.2.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.2.0), 5 days ago) - 
 - [xorpaul/g10k](https://github.com/xorpaul/g10k) ([v0.8.12](https://github.com/xorpaul/g10k/releases/tag/v0.8.12), 1 week ago) - my r10k fork in Go
 - [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) ([v1.4.0](https://github.com/camptocamp/terraform-provider-pass/releases/tag/v1.4.0), 1 week ago) - Pass Terraform provider
 
