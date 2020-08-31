@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.3.0](https://github.com/camptocamp/bivac/releases/tag/2.3.0), today) - 🏕 📦 Backup Interface for Volumes Attached to Containers
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.13.1](https://github.com/hashicorp/terraform/releases/tag/v0.13.1), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.1), 6 days ago) - The slightly more awesome standard unix password manager for teams
 - [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.2.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.2.0), 6 days ago) - 
 - [xorpaul/g10k](https://github.com/xorpaul/g10k) ([v0.8.12](https://github.com/xorpaul/g10k/releases/tag/v0.8.12), 1 week ago) - my r10k fork in Go
-- [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) ([v1.4.0](https://github.com/camptocamp/terraform-provider-pass/releases/tag/v1.4.0), 1 week ago) - Pass Terraform provider
 
 #### 📜 My recent blog posts
 
