@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (today)
 - [raphink/find-my-ancestor](https://github.com/raphink/find-my-ancestor) - 📷🎩 A project to recognize faces in old photographies using AWS Rekognition (1 day ago)
-- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (1 week ago)
 - [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) -  (1 week ago)
+- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (1 week ago)
 - [xorpaul/g10k](https://github.com/xorpaul/g10k) - my r10k fork in Go (1 week ago)
-- [camptocamp/puppet-systemd](https://github.com/camptocamp/puppet-systemd) - Puppet module to manage systemd (1 week ago)
 
 #### 🌱 My latest personal projects
 
