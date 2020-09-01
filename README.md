@@ -9,7 +9,7 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/puppetca-issuer](https://github.com/camptocamp/puppetca-issuer) -  (1 day ago)
+- [camptocamp/puppetca-issuer](https://github.com/camptocamp/puppetca-issuer) -  (today)
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (1 day ago)
 - [raphink/find-my-ancestor](https://github.com/raphink/find-my-ancestor) - 📷🎩 A project to recognize faces in old photographies using AWS Rekognition (2 days ago)
 - [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) -  (1 week ago)
