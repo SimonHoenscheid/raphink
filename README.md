@@ -9,9 +9,9 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/puppetca-issuer](https://github.com/camptocamp/puppetca-issuer) -  (1 day ago)
-- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (2 days ago)
-- [raphink/find-my-ancestor](https://github.com/raphink/find-my-ancestor) - 📷🎩 A project to recognize faces in old photographies using AWS Rekognition (3 days ago)
+- [camptocamp/puppetca-issuer](https://github.com/camptocamp/puppetca-issuer) -  (2 days ago)
+- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (3 days ago)
+- [raphink/find-my-ancestor](https://github.com/raphink/find-my-ancestor) - 📷🎩 A project to recognize faces in old photographies using AWS Rekognition (4 days ago)
 - [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) -  (1 week ago)
 - [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (1 week ago)
 
@@ -25,8 +25,8 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.13.2](https://github.com/hashicorp/terraform/releases/tag/v0.13.2), today) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.3.0](https://github.com/camptocamp/bivac/releases/tag/2.3.0), 2 days ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.13.2](https://github.com/hashicorp/terraform/releases/tag/v0.13.2), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.3.0](https://github.com/camptocamp/bivac/releases/tag/2.3.0), 3 days ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.1), 1 week ago) - The slightly more awesome standard unix password manager for teams
 - [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.2.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.2.0), 1 week ago) - 
 - [xorpaul/g10k](https://github.com/xorpaul/g10k) ([v0.8.12](https://github.com/xorpaul/g10k/releases/tag/v0.8.12), 1 week ago) - my r10k fork in Go
