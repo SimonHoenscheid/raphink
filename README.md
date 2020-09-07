@@ -13,7 +13,7 @@ I like to automate systems where there is a need.
 - [camptocamp/puppetca-issuer](https://github.com/camptocamp/puppetca-issuer) -  (6 days ago)
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (1 week ago)
 - [raphink/find-my-ancestor](https://github.com/raphink/find-my-ancestor) - 📷🎩 A project to recognize faces in old photographies using AWS Rekognition (1 week ago)
-- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (2 weeks ago)
+- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) -  (2 weeks ago)
 
 #### 🌱 My latest personal projects
 
