@@ -25,8 +25,8 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-alpha20200910](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-alpha20200910), today) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.23.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.23.0), 2 days ago) - A pure Ruby code highlighter that is compatible with Pygments
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.13.2](https://github.com/hashicorp/terraform/releases/tag/v0.13.2), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.3.0](https://github.com/camptocamp/bivac/releases/tag/2.3.0), 1 week ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.1), 2 weeks ago) - The slightly more awesome standard unix password manager for teams
 - [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.2.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.2.0), 2 weeks ago) - 
