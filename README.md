@@ -9,8 +9,8 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (2 days ago)
-- [camptocamp/docker-g10k-webhook](https://github.com/camptocamp/docker-g10k-webhook) -  (3 days ago)
+- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (3 days ago)
+- [camptocamp/docker-g10k-webhook](https://github.com/camptocamp/docker-g10k-webhook) -  (4 days ago)
 - [camptocamp/puppetca-issuer](https://github.com/camptocamp/puppetca-issuer) -  (1 week ago)
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (1 week ago)
 - [raphink/find-my-ancestor](https://github.com/raphink/find-my-ancestor) - 📷🎩 A project to recognize faces in old photographies using AWS Rekognition (1 week ago)
@@ -25,8 +25,8 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-alpha20200910](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-alpha20200910), today) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.23.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.23.0), 2 days ago) - A pure Ruby code highlighter that is compatible with Pygments
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-alpha20200910](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-alpha20200910), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.23.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.23.0), 3 days ago) - A pure Ruby code highlighter that is compatible with Pygments
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.3.0](https://github.com/camptocamp/bivac/releases/tag/2.3.0), 1 week ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.1), 2 weeks ago) - The slightly more awesome standard unix password manager for teams
 - [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.2.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.2.0), 2 weeks ago) - 
@@ -41,11 +41,11 @@ I like to automate systems where there is a need.
 
 #### 👥 Check out some of my recent followers
 
+- [<img src="https://avatars0.githubusercontent.com/u/54734963?u=0e6dbf2584c49adc622ea946c3fe54f03d41391c&amp;v=4" height="20"/> JustSoval](https://github.com/JustSoval)
 - [<img src="https://avatars2.githubusercontent.com/u/5199109?u=595867f93f8a013bd33f286dd9272cb690655b3c&amp;v=4" height="20"/> chihung93](https://github.com/chihung93)
 - [<img src="https://avatars2.githubusercontent.com/u/7875085?u=d3c95a2719db2758bdf6f3490335cc782108625f&amp;v=4" height="20"/> egorsmkv](https://github.com/egorsmkv)
 - [<img src="https://avatars1.githubusercontent.com/u/11510882?u=018051aee5ac9e85a109183fb15123e1cde1c01a&amp;v=4" height="20"/> colejhudson](https://github.com/colejhudson)
 - [<img src="https://avatars1.githubusercontent.com/u/2281720?u=5181b95ced6d770af6213fe117878576b821a9f3&amp;v=4" height="20"/> lucassm](https://github.com/lucassm)
-- [<img src="https://avatars0.githubusercontent.com/u/65241446?v=4" height="20"/> Cepheus3000](https://github.com/Cepheus3000)
 
 
 #### 💚 My awesome sponsors (thank you!)
