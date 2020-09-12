@@ -9,8 +9,8 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (3 days ago)
-- [camptocamp/docker-g10k-webhook](https://github.com/camptocamp/docker-g10k-webhook) -  (4 days ago)
+- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (4 days ago)
+- [camptocamp/docker-g10k-webhook](https://github.com/camptocamp/docker-g10k-webhook) -  (5 days ago)
 - [camptocamp/puppetca-issuer](https://github.com/camptocamp/puppetca-issuer) -  (1 week ago)
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (1 week ago)
 - [raphink/find-my-ancestor](https://github.com/raphink/find-my-ancestor) - 📷🎩 A project to recognize faces in old photographies using AWS Rekognition (1 week ago)
@@ -25,8 +25,8 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-alpha20200910](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-alpha20200910), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.23.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.23.0), 3 days ago) - A pure Ruby code highlighter that is compatible with Pygments
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-alpha20200910](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-alpha20200910), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.23.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.23.0), 4 days ago) - A pure Ruby code highlighter that is compatible with Pygments
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.3.0](https://github.com/camptocamp/bivac/releases/tag/2.3.0), 1 week ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.1), 2 weeks ago) - The slightly more awesome standard unix password manager for teams
 - [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.2.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.2.0), 2 weeks ago) - 
