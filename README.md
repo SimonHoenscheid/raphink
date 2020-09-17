@@ -10,10 +10,10 @@ I like to automate systems where there is a need.
 #### 👷 Check out what I'm currently working on
 
 - [camptocamp/puppetca-issuer](https://github.com/camptocamp/puppetca-issuer) -  (today)
+- [camptocamp/secrets-store-csi-driver-provider-gopass](https://github.com/camptocamp/secrets-store-csi-driver-provider-gopass) -  (today)
 - [camptocamp/puppet-nagios](https://github.com/camptocamp/puppet-nagios) - A simple way to build distributed monitoring solutions with puppet ! (today)
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (1 day ago)
 - [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (1 week ago)
-- [camptocamp/docker-g10k-webhook](https://github.com/camptocamp/docker-g10k-webhook) -  (1 week ago)
 
 #### 🌱 My latest personal projects
 
