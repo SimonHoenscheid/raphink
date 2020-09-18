@@ -11,9 +11,9 @@ I like to automate systems where there is a need.
 
 - [camptocamp/go-puppetca](https://github.com/camptocamp/go-puppetca) - Golang Puppet API client (today)
 - [camptocamp/puppetca-issuer](https://github.com/camptocamp/puppetca-issuer) -  (today)
+- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (1 day ago)
 - [camptocamp/secrets-store-csi-driver-provider-gopass](https://github.com/camptocamp/secrets-store-csi-driver-provider-gopass) -  (1 day ago)
 - [camptocamp/puppet-nagios](https://github.com/camptocamp/puppet-nagios) - A simple way to build distributed monitoring solutions with puppet ! (1 day ago)
-- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (1 day ago)
 
 #### 🌱 My latest personal projects
 
