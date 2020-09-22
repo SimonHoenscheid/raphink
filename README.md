@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/puppet-nagios](https://github.com/camptocamp/puppet-nagios) - A simple way to build distributed monitoring solutions with puppet ! (today)
 - [camptocamp/go-puppetca](https://github.com/camptocamp/go-puppetca) - Golang Puppet API client (4 days ago)
 - [camptocamp/puppetca-issuer](https://github.com/camptocamp/puppetca-issuer) -  (4 days ago)
-- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (5 days ago)
 - [camptocamp/secrets-store-csi-driver-provider-gopass](https://github.com/camptocamp/secrets-store-csi-driver-provider-gopass) -  (5 days ago)
-- [camptocamp/puppet-nagios](https://github.com/camptocamp/puppet-nagios) - A simple way to build distributed monitoring solutions with puppet ! (5 days ago)
+- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (5 days ago)
 
 #### 🌱 My latest personal projects
 
