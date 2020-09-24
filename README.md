@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/k8s-demo](https://github.com/camptocamp/k8s-demo) -  (today)
-- [camptocamp/puppet-nagios](https://github.com/camptocamp/puppet-nagios) - A simple way to build distributed monitoring solutions with puppet ! (1 day ago)
-- [camptocamp/go-puppetca](https://github.com/camptocamp/go-puppetca) - Golang Puppet API client (5 days ago)
-- [camptocamp/puppetca-issuer](https://github.com/camptocamp/puppetca-issuer) -  (5 days ago)
-- [camptocamp/secrets-store-csi-driver-provider-gopass](https://github.com/camptocamp/secrets-store-csi-driver-provider-gopass) -  (6 days ago)
+- [camptocamp/k8s-demo](https://github.com/camptocamp/k8s-demo) -  (1 day ago)
+- [camptocamp/puppet-nagios](https://github.com/camptocamp/puppet-nagios) - A simple way to build distributed monitoring solutions with puppet ! (2 days ago)
+- [camptocamp/go-puppetca](https://github.com/camptocamp/go-puppetca) - Golang Puppet API client (6 days ago)
+- [camptocamp/puppetca-issuer](https://github.com/camptocamp/puppetca-issuer) -  (6 days ago)
+- [camptocamp/secrets-store-csi-driver-provider-gopass](https://github.com/camptocamp/secrets-store-csi-driver-provider-gopass) -  (1 week ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-alpha20200923](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-alpha20200923), today) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [camptocamp/k8s-demo](https://github.com/camptocamp/k8s-demo) ([v0.2.0](https://github.com/camptocamp/k8s-demo/releases/tag/v0.2.0), 3 days ago) - 
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-alpha20200923](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-alpha20200923), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [camptocamp/k8s-demo](https://github.com/camptocamp/k8s-demo) ([v0.2.0](https://github.com/camptocamp/k8s-demo/releases/tag/v0.2.0), 4 days ago) - 
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.23.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.23.0), 2 weeks ago) - A pure Ruby code highlighter that is compatible with Pygments
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.3.0](https://github.com/camptocamp/bivac/releases/tag/2.3.0), 3 weeks ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.1), 4 weeks ago) - The slightly more awesome standard unix password manager for teams
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.1), 1 month ago) - The slightly more awesome standard unix password manager for teams
 
 #### 📜 My recent blog posts
 
@@ -50,7 +50,7 @@ I like to automate systems where there is a need.
 
 #### 💚 My awesome sponsors (thank you!)
 
-- [<img src="https://avatars1.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (3 months ago)
+- [<img src="https://avatars1.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (4 months ago)
 
 
 #### 👨‍💻 Top languages
