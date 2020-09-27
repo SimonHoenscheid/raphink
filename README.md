@@ -9,8 +9,8 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/k8s-demo](https://github.com/camptocamp/k8s-demo) - An all-in-one Kubernetes demo using ArgoCD as a base component (3 days ago)
-- [camptocamp/puppet-nagios](https://github.com/camptocamp/puppet-nagios) - A simple way to build distributed monitoring solutions with puppet ! (4 days ago)
+- [camptocamp/k8s-demo](https://github.com/camptocamp/k8s-demo) - An all-in-one Kubernetes demo using ArgoCD as a base component (4 days ago)
+- [camptocamp/puppet-nagios](https://github.com/camptocamp/puppet-nagios) - A simple way to build distributed monitoring solutions with puppet ! (5 days ago)
 - [camptocamp/go-puppetca](https://github.com/camptocamp/go-puppetca) - Golang Puppet API client (1 week ago)
 - [camptocamp/puppetca-issuer](https://github.com/camptocamp/puppetca-issuer) -  (1 week ago)
 - [camptocamp/secrets-store-csi-driver-provider-gopass](https://github.com/camptocamp/secrets-store-csi-driver-provider-gopass) -  (1 week ago)
@@ -25,8 +25,8 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-alpha20200923](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-alpha20200923), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [camptocamp/k8s-demo](https://github.com/camptocamp/k8s-demo) ([v0.2.0](https://github.com/camptocamp/k8s-demo/releases/tag/v0.2.0), 6 days ago) - An all-in-one Kubernetes demo using ArgoCD as a base component
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-alpha20200923](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-alpha20200923), 4 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [camptocamp/k8s-demo](https://github.com/camptocamp/k8s-demo) ([v0.2.0](https://github.com/camptocamp/k8s-demo/releases/tag/v0.2.0), 1 week ago) - An all-in-one Kubernetes demo using ArgoCD as a base component
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.23.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.23.0), 2 weeks ago) - A pure Ruby code highlighter that is compatible with Pygments
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.3.0](https://github.com/camptocamp/bivac/releases/tag/2.3.0), 3 weeks ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.1), 1 month ago) - The slightly more awesome standard unix password manager for teams
@@ -37,7 +37,7 @@ I like to automate systems where there is a need.
 - [Decomissioning with Puppet: report &amp; purge unmanaged resources](https://dev.to/camptocamp-ops/decomissioning-with-puppet-report-purge-unmanaged-resources-1jgk) (2 months ago)
 - [Templating Puppet Control Repositories](https://dev.to/camptocamp-ops/templating-puppet-control-repositories-3pk7) (2 months ago)
 - [💡 GitHub Sponsors and dev.to posts](https://dev.to/raphink/github-sponsors-and-dev-to-posts-51b1) (2 months ago)
-- [Enhance and Colorize Old Pictures](https://dev.to/raphink/enhance-and-colorize-old-pictures-5c9g) (2 months ago)
+- [Enhance and Colorize Old Pictures](https://dev.to/raphink/enhance-and-colorize-old-pictures-5c9g) (3 months ago)
 
 #### 👥 Check out some of my recent followers
 
