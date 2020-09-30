@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (today)
 - [camptocamp/k8s-demo](https://github.com/camptocamp/k8s-demo) - An all-in-one Kubernetes demo using ArgoCD as a base component (1 week ago)
 - [camptocamp/puppet-nagios](https://github.com/camptocamp/puppet-nagios) - A simple way to build distributed monitoring solutions with puppet ! (1 week ago)
 - [camptocamp/puppetca-issuer](https://github.com/camptocamp/puppetca-issuer) -  (1 week ago)
 - [camptocamp/go-puppetca](https://github.com/camptocamp/go-puppetca) - Golang Puppet API client (1 week ago)
-- [camptocamp/secrets-store-csi-driver-provider-gopass](https://github.com/camptocamp/secrets-store-csi-driver-provider-gopass) -  (1 week ago)
 
 #### 🌱 My latest personal projects
 
