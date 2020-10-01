@@ -9,7 +9,7 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (today)
+- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (1 day ago)
 - [camptocamp/k8s-demo](https://github.com/camptocamp/k8s-demo) - An all-in-one Kubernetes demo using ArgoCD as a base component (1 week ago)
 - [camptocamp/puppet-nagios](https://github.com/camptocamp/puppet-nagios) - A simple way to build distributed monitoring solutions with puppet ! (1 week ago)
 - [camptocamp/puppetca-issuer](https://github.com/camptocamp/puppetca-issuer) -  (1 week ago)
@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.13.4](https://github.com/hashicorp/terraform/releases/tag/v0.13.4), today) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.13.4](https://github.com/hashicorp/terraform/releases/tag/v0.13.4), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [camptocamp/k8s-demo](https://github.com/camptocamp/k8s-demo) ([v0.2.0](https://github.com/camptocamp/k8s-demo/releases/tag/v0.2.0), 1 week ago) - An all-in-one Kubernetes demo using ArgoCD as a base component
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.23.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.23.0), 3 weeks ago) - A pure Ruby code highlighter that is compatible with Pygments
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.3.0](https://github.com/camptocamp/bivac/releases/tag/2.3.0), 1 month ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
