@@ -25,9 +25,9 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [camptocamp/k8s-demo](https://github.com/camptocamp/k8s-demo) ([v0.3.0](https://github.com/camptocamp/k8s-demo/releases/tag/v0.3.0), today) - An all-in-one Kubernetes demo using ArgoCD as a base component
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.3.2](https://github.com/camptocamp/bivac/releases/tag/2.3.2), 4 days ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.13.4](https://github.com/hashicorp/terraform/releases/tag/v0.13.4), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [camptocamp/k8s-demo](https://github.com/camptocamp/k8s-demo) ([v0.2.0](https://github.com/camptocamp/k8s-demo/releases/tag/v0.2.0), 2 weeks ago) - An all-in-one Kubernetes demo using ArgoCD as a base component
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.23.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.23.0), 3 weeks ago) - A pure Ruby code highlighter that is compatible with Pygments
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.1), 1 month ago) - The slightly more awesome standard unix password manager for teams
 
