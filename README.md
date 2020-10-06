@@ -33,11 +33,11 @@ I like to automate systems where there is a need.
 
 #### 📜 My recent blog posts
 
+- [Colored wrappers for kubectl](https://dev.to/raphink/colored-wrappers-for-kubectl-2pj1) (today)
 - [Simple secret sharing with gopass and summon](https://dev.to/camptocamp-ops/simple-secret-sharing-with-gopass-and-summon-40jk) (2 months ago)
 - [Decomissioning with Puppet: report &amp; purge unmanaged resources](https://dev.to/camptocamp-ops/decomissioning-with-puppet-report-purge-unmanaged-resources-1jgk) (2 months ago)
 - [Templating Puppet Control Repositories](https://dev.to/camptocamp-ops/templating-puppet-control-repositories-3pk7) (2 months ago)
 - [💡 GitHub Sponsors and dev.to posts](https://dev.to/raphink/github-sponsors-and-dev-to-posts-51b1) (3 months ago)
-- [Enhance and Colorize Old Pictures](https://dev.to/raphink/enhance-and-colorize-old-pictures-5c9g) (3 months ago)
 
 #### 👥 Check out some of my recent followers
 
