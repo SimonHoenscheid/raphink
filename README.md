@@ -10,9 +10,9 @@ I like to automate systems where there is a need.
 #### 👷 Check out what I'm currently working on
 
 - [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (5 days ago)
-- [camptocamp/k8s-demo](https://github.com/camptocamp/k8s-demo) - An all-in-one Kubernetes demo using ArgoCD as a base component (5 days ago)
 - [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default (5 days ago)
 - [camptocamp/puppet-postfix](https://github.com/camptocamp/puppet-postfix) - Puppet postfix module (5 days ago)
+- [camptocamp/k8s-demo](https://github.com/camptocamp/k8s-demo) - An all-in-one Kubernetes demo using ArgoCD as a base component (5 days ago)
 - [camptocamp/puppet-selinux](https://github.com/camptocamp/puppet-selinux) -  (6 days ago)
 
 #### 🌱 My latest personal projects
