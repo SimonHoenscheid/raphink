@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700&#43; contributors) framework for managing your zsh configuration. Includes 200&#43; optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (today)
 - [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (6 days ago)
-- [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default (6 days ago)
 - [camptocamp/puppet-postfix](https://github.com/camptocamp/puppet-postfix) - Puppet postfix module (6 days ago)
+- [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default (6 days ago)
 - [camptocamp/k8s-demo](https://github.com/camptocamp/k8s-demo) - An all-in-one Kubernetes demo using ArgoCD as a base component (6 days ago)
-- [camptocamp/puppet-selinux](https://github.com/camptocamp/puppet-selinux) -  (1 week ago)
 
 #### 🌱 My latest personal projects
 
